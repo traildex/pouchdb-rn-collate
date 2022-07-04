@@ -1,5 +1,5 @@
 {
-  "name": "@rayn/pouchdb-collate",
+  "name": "rn-patched-pouchdb-collate",
   "version": "7.3.0",
   "description": "Collation functions for PouchDB map/reduce",
   "main": "lib/index.js",
