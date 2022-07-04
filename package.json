@@ -1,6 +1,6 @@
 {
   "name": "pouchdb-collate",
-  "version": "7.0.0-prerelease",
+  "version": "7.3.0",
   "description": "Collation functions for PouchDB map/reduce",
   "main": "lib/index.js",
   "keywords": [
@@ -11,8 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/pouchdb/pouchdb.git",
-    "directory": "packages/node_modules/pouchdb-collate"
+    "url": "https://github.com/digpak/pouchdb-rn-collate"
   },
   "license": "Apache-2.0",
   "jsnext:main": "./src/index.js"
