@@ -1,8 +1,8 @@
 {
   "name": "rn-patched-pouchdb-collate",
-  "version": "7.3.0",
+  "version": "7.3.1",
   "description": "Collation functions for PouchDB map/reduce",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "keywords": [
     "pouchdb",
     "pouch",
